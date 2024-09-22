@@ -1128,9 +1128,9 @@ function World11(map) {
       greeter += "  <br>";
       greeter += "  Fire/Sprint: Shift/CTRL";
       greeter += "  <br>";
-      greeter += "  Pause/Mute: P/M (tap on the game screen to take control of the character)";
-      // greeter += "  <br>";
-      // greeter += "  TOP- " + (localStorage.highscore || "000000");
+      greeter += "  Pause/Mute: P/M";
+       greeter += "  <br>";
+      greeter += " (tap on the game screen to take control of the character)";
       greeter += "</p>";
       pushPreText(greeter, 20, 91);
       
