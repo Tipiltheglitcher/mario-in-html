@@ -1,7 +1,4 @@
-/* Maps.js */
-// Contains functions for creating, populating, and using maps
 
-/* Basic Map Functions */
 
 function resetMaps() {
   var i, j, mapfunc;
